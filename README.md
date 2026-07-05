@@ -22,6 +22,6 @@ The project employs a robust Big Data pipeline:
 
 
 
-## Limitations and Future Directions: 
+## Limitations and Future Directions
 
 "Our stratification analysis reveals three distinct genomic regimes; however, further investigation is required to determine whether these regimes are driven by intrinsic thermodynamic transitions or extrinsic categorical factors, such as tissue-of-origin bias or specific experimental batch effects. Furthermore, as our dataset is cross-sectional, the proposed bifurcation dynamics currently represent statistical correlations. Future work will include longitudinal experiments and multivariate corrections for tissue types to rigorously validate the transition trajectory."
